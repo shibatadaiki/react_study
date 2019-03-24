@@ -1,6 +1,6 @@
-# このプロジェクトは[Create React App]（ https://github.com/facebook/create-react-app ）でブートストラップされました。
+## このプロジェクトは[Create React App]）でブートストラップされました。 https://github.com/facebook/create-react-app
 
-##利用可能なスクリプト
+## 利用可能なスクリプト
 
 プロジェクトディレクトリでは、実行することができます：
 
@@ -15,7 +15,7 @@
 ### `npm test`
 
 インタラクティブウォッチモードでテストランナーを起動します。<br>
-詳細については[テストの実行]に関するセクション（https://facebook.github.io/create-react-app/docs/running-tests）を参照してください。
+詳細については[テストの実行]に関するセクション https://facebook.github.io/create-react-app/docs/running-tests
 
 ### `npm run build`
 
@@ -25,7 +25,7 @@ Reactをプロダクションモードで正しくバンドルし、最高のパ
 ビルドは縮小され、ファイル名にはハッシュが含まれます。<br>
 アプリをデプロイする準備が整いました。
 
-詳細については[deployment]に関するセクション（https://facebook.github.io/create-react-app/docs/deployment）を参照してください。
+詳細については[deployment]に関するセクション https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run eject`
 
@@ -39,30 +39,30 @@ Reactをプロダクションモードで正しくバンドルし、最高のパ
 
 ## もっと詳しく知る
 
-あなたは[Create React App documentation]（https://facebook.github.io/create-react-app/docs/getting-started）でもっと学ぶことができます。
+あなたは[Create React App documentation] https://facebook.github.io/create-react-app/docs/getting-started
 
-Reactを学ぶためには、[React documentation]（https://reactjs.org/）を調べてください。
+Reactを学ぶためには、[React documentation] https://reactjs.org/
 
 ### コード分割
 
-このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/code-splitting
+このセクションはここに移動しました： https://facebook.github.io/create-react-app/docs/code-splitting
 
 ### バンドルサイズを分析する
 
-このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+このセクションはここに移動しました： https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 ### プログレッシブWebアプリを作る
 
-このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+このセクションはここに移動しました： https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### 高度な設定
 
-このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/advanced-configuration
+このセクションはここに移動しました： https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### デプロイ
 
-このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/deployment
+このセクションはここに移動しました： https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build`が縮小に失敗する
 
-このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+このセクションはここに移動しました： https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
