@@ -22,7 +22,8 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
 
-          <p>Hello React!!!!!!!!!!!</p>
+          <h1>Hello React!!!!!!!!!!!</h1>
+          <p>This is really working</p>          
           {/* jsxのコメントアウトはこのようにする */}
           {/* jsxはHTMLのように見えるが、実際はHTMLのように書けるJavaScript */}
           {/* DOMになる際にJSによって変換される。シンタックスシュガー */}
