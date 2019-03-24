@@ -10,7 +10,10 @@ import './App.css';
 // extendsでクラス継承する
 class App extends Component {
   render() {
-    // return React.createElement('div', null, 'h1', 'my name is daiki shibata')
+    // jsxを使わない場合は下記のようにReact.createElementでDOM要素を生成する
+    // 第一引数：生成するDOM要素。第二引数：そのDOM要素につけるプロパティ（下記の場合はclass='App'）
+    // 第三引数以降：第一引数で生成されたDOM要素の中に入る子要素群
+    // return React.createElement('div', { className: 'App' }, React.createElement('h1', { className: 'App' }, 'h1h1h1h1h1h1h1h1h1h1'), 'my name is daiki shibata')
 
     return (
       // これらのDOM要素をreturnして呼び出し元に返す
