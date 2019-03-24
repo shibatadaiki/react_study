@@ -1,4 +1,4 @@
-このプロジェクトは[Create React App]（https://github.com/facebook/create-react-app）でブートストラップされました。
+# このプロジェクトは[Create React App]（ https://github.com/facebook/create-react-app ）でブートストラップされました。
 
 ##利用可能なスクリプト
 
@@ -37,29 +37,29 @@ Reactをプロダクションモードで正しくバンドルし、最高のパ
 
 あなたは `eject`を使う必要はありません。キュレーションされた機能セットは、小規模および中規模の導入に適しています。この機能を使用する義務はありません。ただし、このツールは、準備が整ったときにカスタマイズできない場合は役に立ちません。
 
-＃＃ もっと詳しく知る
+## もっと詳しく知る
 
 あなたは[Create React App documentation]（https://facebook.github.io/create-react-app/docs/getting-started）でもっと学ぶことができます。
 
 Reactを学ぶためには、[React documentation]（https://reactjs.org/）を調べてください。
 
-###コード分割
+### コード分割
 
 このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/code-splitting
 
-###バンドルサイズを分析する
+### バンドルサイズを分析する
 
 このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-###プログレッシブWebアプリを作る
+### プログレッシブWebアプリを作る
 
 このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-###高度な設定
+### 高度な設定
 
 このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-###デプロイ
+### デプロイ
 
 このセクションはここに移動しました：https://facebook.github.io/create-react-app/docs/deployment
 
