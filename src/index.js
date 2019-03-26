@@ -12,7 +12,7 @@ import App from './App';
 
 // ./serviceWorker.jsのファイルでexport（出力）されている全ての内容（「*」）を読み込み、
 // それを「serviceWorker」という名前から使用できるようにしている
-// この場合では、「function unregister()」と「function register(config)」メソッドが
+// この場合では、exportされている「function unregister()」と「function register(config)」メソッドが
 // 「serviceWorker」から使用できるようになっている。
 import * as serviceWorker from './serviceWorker';
 
